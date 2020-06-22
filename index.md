@@ -8,4 +8,6 @@ Das ist eine Beschreibung des Characters
 * Dritter Unterpunkt
 * Vierter Unterpunkt
 
-> Das ist jetzt ein Zitat!
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
