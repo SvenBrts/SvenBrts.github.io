@@ -9,3 +9,5 @@ Das ist eine Beschreibung des Characters
 * Vierter Unterpunkt
 
 > Somewhere, something
+
+<img src="file:///C:/Users/svenb/git/Uebung2/SvenBrts.github.io/8.jpg"/>
