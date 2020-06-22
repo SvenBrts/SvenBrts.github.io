@@ -8,4 +8,4 @@ Das ist eine Beschreibung des Characters
 * Dritter Unterpunkt
 * Vierter Unterpunkt
 
-< Lorem ipsum dolor sit amet
+>Zitat
