@@ -8,4 +8,4 @@ Das ist eine Beschreibung des Characters
 * Dritter Unterpunkt
 * Vierter Unterpunkt
 
-> Dies ist ein Zitat mit zwei Absätzen. Lorem ipsum dolor sit amet,
+< Lorem ipsum dolor sit amet
