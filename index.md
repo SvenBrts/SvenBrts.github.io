@@ -8,3 +8,4 @@ Das ist eine Beschreibung des Characters
 * Dritter Unterpunkt
 * Vierter Unterpunkt
 
+> Das ist jetzt ein Zitat!
